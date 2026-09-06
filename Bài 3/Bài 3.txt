@@ -1,0 +1,6 @@
+﻿Build started at 7:36 PM...
+1>------ Build started: Project: Bài 3, Configuration: Debug Any CPU ------
+1>D:\C#\source\repos\Bài 3\Program.cs(19,71,19,71): error CS1026: ) expected
+1>D:\C#\source\repos\Bài 3\Program.cs(56,26,56,26): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 7:36 PM and took 00.364 seconds ==========
