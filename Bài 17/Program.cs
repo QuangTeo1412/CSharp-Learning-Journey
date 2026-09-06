@@ -66,7 +66,6 @@ namespace Bài_17
 
             student1.DisplayInfo();
             student2.DisplayInfo();
-
             Console.ReadLine();
         }
     }
