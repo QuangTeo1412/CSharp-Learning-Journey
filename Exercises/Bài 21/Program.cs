@@ -32,7 +32,7 @@ namespace Bài_21
 
             student student = new student("Quang", 20, 8);
             Console.WriteLine("Tên: " + student.name + " Tuổi: " + student.age+ " Điểm: " + student.score);
-            double newScore = student.AddScore(4);
+            double newScore = student.AddScore(1);
 
             Console.WriteLine("Điểm sau khi được cộng thêm: " + newScore);
 
